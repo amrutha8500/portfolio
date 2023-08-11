@@ -33,7 +33,7 @@ This portfolio website serves as a comprehensive showcase of skills, projects, a
 
 Feel free to fork this project, make changes, and submit pull requests. Feedback and contributions are always welcome.
 
-##Screen Shots 
+## Screenshots 
 
 <img width="1437" alt="Screen Shot 2023-08-10 at 11 28 07 PM" src="https://github.com/amrutha8500/portfolio/assets/61263345/20aaf0af-e051-4a78-9f7d-e6bbd71a9296">
 
