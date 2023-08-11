@@ -15,8 +15,7 @@ This portfolio website serves as a comprehensive showcase of skills, projects, a
 
 1. **Home**: The landing page that welcomes visitors.
 2. **About**: A section detailing personal information, skills, and background.
-
-(You may need to expand upon this with other sections present in the HTML.)
+3. **Contact**: A section for contact information.
 
 ## Technologies Used
 
