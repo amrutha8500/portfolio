@@ -1,4 +1,4 @@
-# Portfolio Project
+# Personal Portfolio Project
 
 ## Overview
 
@@ -39,3 +39,8 @@ Feel free to fork this project, make changes, and submit pull requests. Feedback
 <img width="1429" alt="Screen Shot 2023-08-10 at 11 22 25 PM" src="https://github.com/amrutha8500/portfolio/assets/61263345/ba192278-9ce6-4f9c-9426-ab0793fb4352">
 
 <img width="1439" alt="Screen Shot 2023-08-10 at 11 22 49 PM" src="https://github.com/amrutha8500/portfolio/assets/61263345/dd75f8f0-d291-4d91-a8ed-e2e265a61732">
+
+<img width="1440" alt="Screen Shot 2023-08-11 at 9 12 09 PM" src="https://github.com/amrutha8500/portfolio/assets/61263345/3faa7255-875a-4f08-8d49-369e9efc4b78">
+
+
+
